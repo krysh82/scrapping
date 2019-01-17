@@ -28,3 +28,5 @@ depute.rb
 2) Collecting mails
 3) Collecting names and surnames 
 4) Sync names/surnames and mails
+
+Sorry no working .rspec
