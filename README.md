@@ -1,6 +1,6 @@
-Mousaillion Nakrys Youlha
-Mousaillion Murielle TONG
-Mousaillon Alexis Janin
+Nakrys Youlha : 
+Murielle TONG : 
+Alexis Janin : 
 
 Repo link : https://github.com/krysh82/scrapping
 
@@ -24,5 +24,7 @@ mairie.rb
 4) Returns the result {"Town - zipcode" => "e-mail"}
 
 depute.rb
-
-
+1) Declare web page
+2) Collecting mails
+3) Collecting names and surnames 
+4) Sync names/surnames and mails
